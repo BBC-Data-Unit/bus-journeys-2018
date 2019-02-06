@@ -7,6 +7,7 @@ In January 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47045872) th
 ## Get the data
 
 * PDF: [Department for Transport: Annual bus statistics: England 2017/18](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/774565/annual-bus-statistics-year-ending-mar-2018.pdf) - [cached here](https://github.com/BBC-Data-Unit/bus-use/blob/master/annual-bus-statistics-year-ending-mar-2018.pdf)
+* XLSX: [Data with analysis](https://github.com/BBC-Data-Unit/bus-journeys-2018/blob/master/roughsleeping_w_analysis.xlsx)
 
 ## Interviews and quotes
 
